@@ -12,7 +12,6 @@ description: web Developer
 
 <br>
 <br>
-양궁협회 admin 사이트 페이지 리뉴얼
 
 <br>
 
@@ -22,11 +21,12 @@ description: web Developer
 
 
 
-1.i18n lib 를 통해서 언어 개발 및 진행<br><br>
-2.front-end 실시간 통신 최적화 진행<br>
-3.javascript 기반 차트 최적화 진행<br>
-4.node js script TypeScript 로 최적화 진행<br>
-5.배포진행<br>
+* i18n lib 를 통해서 언어 개발 및 진행<br><br>
+* front-end 실시간 통신 최적화 개발 진행 <br>
+* javascript 기반 차트 최적화 개발 진행<br>
+* nodejs Script 를 TypeScript 로 개발 리펙토링 개발<br>
+* Django 를 이용하여 월렛 backend 와 , 사용자 DB table 설계 및 개발 <br>
+* 배포진행<br>
 
 
 

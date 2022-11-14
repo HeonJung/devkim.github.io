@@ -17,7 +17,7 @@ weight: 3
 <br>
 
 # **좋아 하는거**
-coffe,음악듣기
+coffe,음악듣기,it youtebe search
 <br>
 <br>
 

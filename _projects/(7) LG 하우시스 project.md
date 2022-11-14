@@ -20,10 +20,8 @@ LG 하우시스 에서 사용되고 있는 사이트 유지 보수 와 개발 �
 
 ### 담당
 
-1.javascript 개선 및 개발 <br>
-2.spring 로 된 backend 개발 <br>
-3.대시보드 추가 요건 변경 <br>
-5.Angular 컴포넌트 수정 및 변경 <br>
+* 대시보드 추가 요건 변경 <br>
+* Angular 컴포넌트 수정 및 변경 <br>
 
 <br>
 <br>

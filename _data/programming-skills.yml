@@ -1,4 +1,4 @@
-- name: Javascript/HTML/CSS
+- name: nodeJS
   percentage: 80
   color: danger
 

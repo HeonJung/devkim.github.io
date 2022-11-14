@@ -26,8 +26,8 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : heonjung
   image             : image/my.jpg
-  behance           : your_username
-  dribbble          : your_username
+  #behance           : your_username
+  #dribbble          : your_username
   email             : sorcer7110@gmail.com
 #  facebook          : your_username
 #  github            : HeonJung

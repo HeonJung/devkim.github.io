@@ -20,9 +20,9 @@ description: 코다코 smartFactory
 ### 담당
 
 
-1.machine 에 상태값 과 1사출에 대한 데이터 출력 및 C# 으로 모니터링 application 개발 <br>
-2.android 제품으로 각 호기 에 장착 후 데이터 출력 에 맞는 UI 개발<br>
-3.대시보드 모니터링 은 DB 에 적재<br>
+* machine 에 상태값 과 1사출에 대한 데이터 출력 및 C# 으로 모니터링 application 개발 <br>
+* android 제품으로 각 호기 에 장착 후 데이터 출력 에 맞는 UI 개발<br>
+* 대시보드 모니터링 은 DB 에 적재<br>
 
 <br>
 <br>
