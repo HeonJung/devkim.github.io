@@ -1,5 +1,5 @@
 ---
-name: 해외 물류 시스템 개발
+name: LG 하우시스 project
 tools: [java/Spring  ]
 # image: /image/kt.jpg
 description: LG 하우시스 해외 물류 시스템 개발

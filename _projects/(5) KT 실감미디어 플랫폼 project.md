@@ -1,5 +1,5 @@
 ---
-name: KT 실감미디어 플랫폼 운영/개발
+name: KTH project
 tools: [java/Spring  , pgsql , jboss]
 image: /image/kt.jpg
 description: KT admin 유지보수 / 개발
