@@ -1,0 +1,11 @@
+- name: GCP
+  percentage: 70
+  color: info
+
+- name: Jenkins
+  percentage: 65
+  color: success
+
+- name: GitlabRunner
+  percentage: 55
+  color: warning 
