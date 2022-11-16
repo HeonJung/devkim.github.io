@@ -25,7 +25,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title: "부재시 문자로 연락 부탁드립니다.",
+    title: '부재시 문자로 연락 부탁드립니다.',
     icon: faBell,
   },
 };

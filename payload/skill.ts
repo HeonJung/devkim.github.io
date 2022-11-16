@@ -1,4 +1,4 @@
-import { CommonDescription } from '../component/common/CommonDescription';
+// import { CommonDescription } from '../component/common/CommonDescription';
 import { ISkill } from '../component/skill/ISkill';
 
 const backend: ISkill.Skill = {
@@ -76,11 +76,9 @@ const GCP: ISkill.Skill = {
   ],
 };
 
-
-
 const skill: ISkill.Payload = {
   disable: false,
-  skills: [backend, CICD ,Test,  database, frontend , GCP],
+  skills: [backend, CICD, Test, database, frontend, GCP],
   tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
 };
 
