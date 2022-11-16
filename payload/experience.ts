@@ -16,7 +16,16 @@ const experience: IExperience.Payload = {
         'KB 증권사 에서 사용되고 있는 prism 제품과 gitlab runner 로그 를 체크 하기 위한 쉘 스크립트 작업',
         'CD/CD 배포 시스템 구축 ',
       ],
-      skillKeywords: ['Flask(Python)' ,'CICD', 'BigQuery', 'GCP' , 'GCS' , 'Container Registry' , 'Shell Script' , 'GibLab Runner'],
+      skillKeywords: [
+        'Flask(Python)',
+        'CICD',
+        'BigQuery',
+        'GCP',
+        'GCS',
+        'Container Registry',
+        'Shell Script',
+        'GibLab Runner',
+      ],
     },
     {
       title: 'GooldenPlanet',
@@ -28,9 +37,9 @@ const experience: IExperience.Payload = {
         '페이지 리뉴얼 을 위한 sql 개선 과 query 추가',
         '기존 온프레미스 사이트 에서 GCP cloud 환경으로 변경 작업',
         '특정 페이지 에서 Excel 사용을 위한 Spring Poi 로 개발 진행',
-        '배포 작업 진행'
+        '배포 작업 진행',
       ],
-      skillKeywords: ['Spring', 'CICD', 'GCP' , 'Mssql'],
+      skillKeywords: ['Spring', 'CICD', 'GCP', 'Mssql'],
     },
     {
       title: 'GooldenPlanet',
@@ -48,9 +57,18 @@ const experience: IExperience.Payload = {
         'nginx 환경 설정 진행',
         'CI/CD 배포 환경을 위한 CodeDeploly 와 Jenkins 로 자동화 배포 진행 및 CodeDeploly script 작성',
         '모델 서버 부하가 있어 부하 방지를 위해 LB 도입',
-        '이슈) React Draft lib 에서는 전처리 요청 및 문법 단위로 클릭이 안되는 전처리 이슈가 발생 하여 Draft lib 를 커스텀 마이징 작업'
+        '이슈) React Draft lib 에서는 전처리 요청 및 문법 단위로 클릭이 안되는 전처리 이슈가 발생 하여 Draft lib 를 커스텀 마이징 작업',
       ],
-      skillKeywords: ['React', 'Express', 'Flask' , 'CICD', 'AWS' , 'Pgsql' , 'Jenkins' , 'CodeDeploly' ],
+      skillKeywords: [
+        'React',
+        'Express',
+        'Flask',
+        'CICD',
+        'AWS',
+        'Pgsql',
+        'Jenkins',
+        'CodeDeploly',
+      ],
     },
     {
       title: 'KJ GLOBAL',
@@ -63,7 +81,7 @@ const experience: IExperience.Payload = {
         'Express 서버 Javascript를 Typescript로 교체 및 로직 리펙토링',
         'jwt 로 검증 하는 interface 및 back-end 개발',
       ],
-      skillKeywords: ['jquery', 'Express' , 'CICD', 'TypeScript' , 'AWS' , 'Mysql' , 'DJango'],
+      skillKeywords: ['jquery', 'Express', 'CICD', 'TypeScript', 'AWS', 'Mysql', 'DJango'],
     },
     {
       title: '공간과 가치',
@@ -76,7 +94,7 @@ const experience: IExperience.Payload = {
         'Front-end javascript slowScript 수정 및 최적화 진행 ',
         '배포 진행',
       ],
-      skillKeywords: ['Spring' , 'pgsql' , 'jboss' , 'linux' , 'jquery'],
+      skillKeywords: ['Spring', 'pgsql', 'jboss', 'linux', 'jquery'],
     },
     {
       title: '유니위즈',
@@ -90,7 +108,7 @@ const experience: IExperience.Payload = {
         '기존 html 페이지 를 Angular 컴포넌트 로 수정 및 webview 대응',
         '배포 진행',
       ],
-      skillKeywords: ['Spring' , 'Oracle' , 'Angular' , 'linux' , 'jquery'],
+      skillKeywords: ['Spring', 'Oracle', 'Angular', 'linux', 'jquery'],
     },
     {
       title: '신명정보통신',
@@ -106,9 +124,9 @@ const experience: IExperience.Payload = {
         '온도 데이터 모니터링 이상 발생 시 알림 문자 푸쉬 를 위한 S/W 및 H/W 개발',
         '공정 중앙 모니터링 시스템 개발',
         'IOT 제품을 위한 Web 개발',
-        '배포 진행 및 S/W 설치 작업'
+        '배포 진행 및 S/W 설치 작업',
       ],
-      skillKeywords: ['Spring' , 'Oracle' , 'MS-SQl' , 'MYSQL' , 'Android' , 'C# 응용프로그램' , 'Java'],
+      skillKeywords: ['Spring', 'Oracle', 'MS-SQl', 'MYSQL', 'Android', 'C# 응용프로그램', 'Java'],
     },
   ],
 };
