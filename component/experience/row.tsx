@@ -20,9 +20,19 @@ export default function ExperienceRow({
           <h4>{item.title}</h4>
           <i style={Style.gray}>{item.position}</i>
           <ul className="pt-3">
-            {item.descriptions.map((description, descIndex) => (
-              <li key={descIndex.toString()}>{description}</li>
-            ))}
+            {item.descriptions.map((description, descIndex) => {
+              if (description.indexOf('||') !== -1) {
+                const splice = description.split('||');
+                return (
+                  <li key={descIndex.toString()}>
+                    <a href={splice[1]} target="_blank" rel="noreferrer">
+                      {splice[0]}
+                    </a>
+                  </li>
+                );
+              }
+              return <li key={descIndex.toString()}>{description}</li>;
+            })}
             {createSkillKeywords(item.skillKeywords)}
           </ul>
         </Col>

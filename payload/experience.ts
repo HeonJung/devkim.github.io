@@ -57,6 +57,7 @@ const experience: IExperience.Payload = {
         'nginx 환경 설정 진행',
         'CI/CD 배포 환경을 위한 CodeDeploly 와 Jenkins 로 자동화 배포 진행 및 CodeDeploly script 작성',
         '모델 서버 부하가 있어 부하 방지를 위해 LB 도입',
+        '화면정의서 참조||https://docs.google.com/presentation/d/18jLkGK6WbJ5q-8zpHuwGC6jwrpuUZkojBIaul04lU1k/edit#slide=id.g199f21daea3_0_98',
         '이슈) React Draft lib 에서는 전처리 요청 및 문법 단위로 클릭이 안되는 전처리 이슈가 발생 하여 Draft lib 를 커스텀 마이징 작업',
       ],
       skillKeywords: [
